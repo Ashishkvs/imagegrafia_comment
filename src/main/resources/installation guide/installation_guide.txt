@@ -1,0 +1,2 @@
+1)configurer spring boot starter project 
+2)add lombok.jar to spring sts 
